@@ -65,20 +65,13 @@
     },
     {
       "id": 10,
-      "name": "BMW 1 series",
-      "category": "new ",
-      "price": 546,
-      "img": "http://cdn.motorpage.ru/Photos/300/1687.jpg"
-    },
-    {
-      "id": 11,
       "name": "Spark ",
       "category": "gym ",
       "price": 11,
       "img": "https://chevrolet.uz/assets/images/index.jpg"
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Challeger",
       "category": "new ",
       "price": 413,
