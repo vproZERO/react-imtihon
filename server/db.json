@@ -1,0 +1,93 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Shelby GT500CR 2020",
+      "category": "classic",
+      "price": 298,
+      "img": "https://hips.hearstapps.com/hmg-prod/images/carbon-fiber-shelby-mustang-1600685276.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bugatti Chiron 2016",
+      "category": "new ",
+      "price": 890,
+      "img": "https://images.drive.com.au/caradvice/image/private/c_fill,f_auto,g_auto,h_675,q_auto:good,w_1200/mn38trhc0kmxndtglsue"
+    },
+    {
+      "id": 3,
+      "name": "Cadillac 1959",
+      "category": "classic",
+      "price": 670,
+      "img": "https://bringatrailer.com/wp-content/uploads/2020/02/1959_cadillac_eldorado_1580930187d208495d03-e1582008083212.jpg?fit=940%2C627"
+    },
+    {
+      "id": 4,
+      "name": "BMW 34",
+      "category": "classic",
+      "price": 320,
+      "img": "https://hips.hearstapps.com/roa.h-cdn.co/assets/16/52/1483108736-p90243852-highres-bmw-5-series-e28-11.jpg?crop=0.772xw:0.772xh;0.163xw,0.138xh&resize=1200:*"
+    },
+    {
+      "id": 5,
+      "name": "Jentra",
+      "category": "gym ",
+      "price": 19,
+      "img": "https://img.bisyor.uz/web/uploads/items/jentra-cdx-at-8-yillik-mega-aksiya-229858-1z-1619942412.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Delorian",
+      "category": "new ",
+      "price": 1.7,
+      "img": "https://media.cnn.com/api/v1/images/stellar/prod/220822155902-01-new-delorean-2022.jpg?c=4x3"
+    },
+    {
+      "id": 7,
+      "name": "Lamborgini",
+      "category": "new ",
+      "price": 799,
+      "img": "https://carwow-uk-wp-3.imgix.net/New-Lamborghini-Revuelto-doors-1.png?auto=format&cs=tinysrgb&fit=crop&h=800&ixlib=rb-1.1.0&q=60&w=1600"
+    },
+    {
+      "id": 8,
+      "name": "Cobalt",
+      "category": "gym ",
+      "price": 14,
+      "img": "https://chevrolet.uz/assets/images/cobalt/small/exterior/02.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ford Mustang 1969",
+      "category": "classic",
+      "price": 208,
+      "img": "https://s1.auto.drom.ru/photo/oM5YkcZWIs3I_QL6Fy61r1rapnfz6aXEQE5N0sZwaQEokYmaCiQoTO2Cv4tbDZ8PMp4FBcKAXHiKF9wWCNL13o9gCg.jpg"
+    },
+    {
+      "id": 10,
+      "name": "BMW 1 series",
+      "category": "new ",
+      "price": 546,
+      "img": "http://cdn.motorpage.ru/Photos/300/1687.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Spark ",
+      "category": "gym ",
+      "price": 11,
+      "img": "https://chevrolet.uz/assets/images/index.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Challeger",
+      "category": "new ",
+      "price": 413,
+      "img": "https://www.dodge.com/content/dam/fca-brands/na/dodge/en_us/2023/challenger/gallery/exterior/MY23_Challenger_Gallery_05.jpg.image.1440.jpg"
+    }
+  ],
+  "category": [
+    "classic",
+    "new",
+    "gym "
+  ]
+}

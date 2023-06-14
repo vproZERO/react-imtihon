@@ -1,0 +1,26 @@
+.input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.postBtn {
+  padding: 15px 30px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 14px;
+  background: #5A5AC9;
+border: 1px solid #5A5AC9;
+  text-align: center;
+  text-transform: uppercase;
+  
+  color: #FFFFFF; 
+}
+.divBlock {
+  padding-top: 60px;
+}
