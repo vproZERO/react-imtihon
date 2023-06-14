@@ -35,7 +35,7 @@ export const CardCom = ({ id, img, name, price , category}) => {
           justifyContent: "space-between",
         }}
       >
-        <p style={{width:"70px" , padding:"20px 0" , fontWeight:"600" , fontSize:"18px" , lineHeight:"28px" , color:" #5A5AC9"}}>${price}</p>
+        <p style={{width:"70px" , padding:"20px 0" , fontWeight:"600" , fontSize:"18px" , lineHeight:"28px" , color:" #5A5AC9"}}>${price}ming dollar</p>
         <p className="cardCom__button_text">
           <Button
             onClick={addProduct}
