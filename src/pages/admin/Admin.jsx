@@ -2,7 +2,6 @@ import { Stack, Typography } from "@mui/material";
 import { Link } from "react-router-dom";
 import { Strelka } from "../../assets/icons/strelka";
 import { Post } from "./components/post";
-import { Updata } from "./components/updata";
 import { Del } from "./components/del";
 import {Breadcrumbs} from "@mui/material";
 import React from "react";
@@ -35,7 +34,6 @@ export const Admin = () => {
         
       </Stack>
       <Post />
-      <Updata />
       <Del />
     </Stack>
   );
